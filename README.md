@@ -20,10 +20,5 @@ I enjoy working on web design, front-end development, and exploring new technolo
 ## Projects
 Here are a few projects I've worked on:
 
-## GitHub Stats
-![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josedavidburguete&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josedavidburguete&layout=compact&theme=radical)
-
 ## Let's Connect!
 - **LinkedIn:** [José David Burguete Guerra](https://www.linkedin.com/in/jose-david-burguete-guerra-aba8a8224/)
