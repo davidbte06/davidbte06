@@ -26,5 +26,4 @@ Here are a few projects I've worked on:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josedavidburguete&layout=compact&theme=radical)
 
 ## Let's Connect!
-- **Email:** davidbte06@gmail.com
 - **LinkedIn:** [José David Burguete Guerra](https://www.linkedin.com/in/jose-david-burguete-guerra-aba8a8224/)
