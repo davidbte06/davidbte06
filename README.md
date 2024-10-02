@@ -1,7 +1,7 @@
 # 👋 Hi, I'm José David Burguete Guerra
 
 ## About Me
-I'm a Web and Computer Programming professional, passionate about building efficient and creative web applications. I graduated from **Brigham Young University–Idaho** with a degree in **Web & Computer Programming** in 2021. I also hold a **PathwayConnect Certificate** from **BYU–Pathway Worldwide**. My goal is to leverage my technical skills to create impactful web-based solutions that enhance user experience.
+I'm a Web and Computer Programming student at **Brigham Young University–Idaho**, working towards my degree in **Web & Computer Programming**. I also hold a **PathwayConnect Certificate** from **BYU–Pathway Worldwide**. My passion lies in building efficient and creative web applications, and I'm continuously honing my skills in web development and programming.
 
 I enjoy working on web design, front-end development, and exploring new technologies to stay updated with the latest industry trends. In addition to my technical background, I am skilled in collaborating in online environments and adapting to new challenges quickly.
 
