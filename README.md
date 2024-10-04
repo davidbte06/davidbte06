@@ -19,6 +19,7 @@ I enjoy working on web design, front-end development, and exploring new technolo
 
 ## Projects
 Here are a few projects I've worked on:
+[Next.js project](https://wdd430-project.vercel.app/)
 
 ## Let's Connect!
 - **LinkedIn:** [José David Burguete Guerra](https://www.linkedin.com/in/jose-david-burguete-guerra-aba8a8224/)
