@@ -1,4 +1,4 @@
-# 👋 Hi, I'm José David Burguete Guerra
+# 👋 Hi, David Burguete
 
 ## About Me
 I'm a Web and Computer Programming student at **Brigham Young University–Idaho**, working towards my degree in **Web & Computer Programming**. My passion lies in building efficient and creative web applications, and I'm continuously honing my skills in web development and programming.
